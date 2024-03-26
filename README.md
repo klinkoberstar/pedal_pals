@@ -7,5 +7,5 @@ model demonstrates superior performance, suggesting its effectiveness in handlin
 
 Read our final paper [HERE](https://github.com/klinkoberstar/pedal_pals/blob/cc0779317ff0355c79b9d5acba20d83770c4e174/Concept%20Drift%20and%20Predicting%20Duration%20of%20Divvy%20Bike%20Trips.pdf)
 
-
+This project was completed as part of coursework for Mathematical Foundations of Machine Learning (Computer Science 35300) at the University of Chicago.
 
